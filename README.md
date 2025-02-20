@@ -2,6 +2,12 @@
 
 fixes the dumb "error: file '/EFI/Microsoft/Boot/bootmgfw.efi' not found"
 
+## disclaimer
+
+the contents of the `WindowsBoot.tar.gz` came straight from a windows install, you can replicate this by using the windows installer and fixing the bcd boot files yourself.
+
+**sha1-hash**: `ee2f8d07fd268d12aed9bb05aec17d0198938b10  WindowsBoot.tar.gz`
+
 ## why
 
 for uni and work reasons, i still have to use windows for certain applications.
